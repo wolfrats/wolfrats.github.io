@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wolfrats</title>
+    <link>https://wolfrats.com/</link>
+    <description>Recent content on Wolfrats</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Mar 2021 14:37:08 -0500</lastBuildDate><atom:link href="https://wolfrats.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alert!</title>
+      <link>https://wolfrats.com/posts/my-first-post/</link>
+      <pubDate>Sat, 06 Mar 2021 14:37:08 -0500</pubDate>
+      
+      <guid>https://wolfrats.com/posts/my-first-post/</guid>
+      <description>This is a test of the emergency Wolfrat broadcast system (EWBS). This is not a test.
+Please shelter in place before evacuating to the designated helipad. Help is on the way.
+You have nothing to worry about. Your cooperation is greatly appreciated.</description>
+    </item>
+    
+  </channel>
+</rss>
