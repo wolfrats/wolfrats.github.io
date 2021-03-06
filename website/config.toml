@@ -1,0 +1,17 @@
+baseURL = "https://wolfrats.com/"
+languageCode = "en-us"
+title = "Wolfrats"
+theme = "paperesque"
+[params]
+# Turn this on if you want to disable margin notes everywhere!
+# disableMarginNotes = true
+
+# Customise your home page menu here:
+
+[[params.menu]]
+  name = "Recent Posts"
+  url = "posts/"
+
+[[params.menu]]
+  name = "Posts by Tag"
+  url = "tags/"
