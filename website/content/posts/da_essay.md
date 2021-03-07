@@ -83,7 +83,7 @@ The *Dragon Age* series, like many Bioware titles, are focused on player choice.
 
 *DAII*, conversely, is explicit about its timeline, which I think helps ground the player further in the story as it is told. Couple this explicitness with the shifts that occur between time-jumps—such as Hawke’s leaving his uncle’s house in Lowtown for a lavish town home as he secures his family’s reputation, or the gradual Qunari occupation of Kirkwall—and *DAII*’s narrative strength relative to the other two games is clear. That strength is in large part due to how the passage of time manifests in the world.
 
-## *Dragon Age: ~~Iron BUll~~ Inquisition*
+## *Dragon Age: Fast Travel*
 
 Now we come to the third game, *Dragon Age: Inquisition*. There are significant changes in Inquisition from the previous two games, both from a gameplay and a narrative perspective. For the most part, these changes serve to make a fun and interesting experience. Trading the gradual rise to renown of the first two, *Inquisition* puts the player character in a significant position of power within the first few hours of the game. The protagonist’s accidental acquisition of control over the Fade (that dream-like spirit realm) is a power that few or none others possess, making *Inquisition* a chosen-one narrative by happenstance. Like *Origins*, *DAI* presents a story of many people from many walks of life stepping up and rallying entire institutions to their cause. It is a continent-spanning story of capital “p” Powers duking it out not just for the world but also seemingly for the fabric of its cosmology, with gods and stranger powers having a stake in the fight. *Inquisition* is the *Dragon Age* attempt at “go big or go home.” And it does go big.
 
