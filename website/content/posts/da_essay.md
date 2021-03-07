@@ -1,7 +1,7 @@
 ---
 title: "It's About Time: Scope and Shortcomings in the Dragon Age Series"
 author: Jay
-date: 2021-03-07T14:37:08-05:00
+date: 2021-03-06T14:37:08-05:00
 draft: false
 ---
 
