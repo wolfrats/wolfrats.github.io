@@ -1,5 +1,6 @@
 ---
 title: "MechWolfrat Log 1"
+author: Jay
 date: 2021-03-22T08:26:08-05:00
 draft: false
 ---
