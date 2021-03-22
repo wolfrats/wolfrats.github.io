@@ -44,7 +44,7 @@ A lift brought them to the cold, silent docks of the Boneyard. A few scrappers m
 In they charged, weaving through old reactors and across weathered decks, the stars peeking in through the rotting corpse of the ship.
 Firefight. Two Bloodkrakes, ready to draw blood to protect their prize. One exploded from a blast by Adams, the other took a right hook from Boone before Adams sent it flying into corrosive acid where it, too, exploded.
 
-All they had to do now was bring in their bount. Far Far-he-Sails hiding away in the ship’s navigation deck, begged for life. He made a counter-offer. “You let me go, and you can have my body--my mech.”
+All they had to do now was bring in their bounty. Far Far-he-Sails hiding away in the ship’s navigation deck, begged for life. He made a counter-offer. “You let me go, and you can have my body--my mech.”
 
 Reluctant but intrigued, the duo debated. Fry knew an uncanny amount about their lives, and implored them to look beyond the lives of fear that they had fallen into.
 Finally they agreed, and watched as Fry ascended into a craft the likes of which they’d never seen. They thought themselves marks when only silence followed, but just as they began to doubt the husk of Fry’s mech came floating back. 
@@ -59,7 +59,7 @@ They chose the former, after which a cowled man with robotic arms arrived on a s
 
 Halfway to the lift, Adams and Boone got a message on their terminals. “Fuck you.” The meaning was clear.
 
-Bounty hunting is not a trade conducive to mercy. What will the duo do, with their new gains and, perhaps, more than a few new enemies?
+Bounty hunting is not a trade conducive to mercy. What will the duo do with their new gains and, perhaps, more than a few new enemies?
 
 ![image](https://user-images.githubusercontent.com/8935623/111989348-fd699180-8b54-11eb-90c6-d81f6e1a7079.png)
 
