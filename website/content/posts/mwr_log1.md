@@ -1,13 +1,13 @@
 ---
-title: "MechWolfrat Log 1"
+title: "MechaWolfrat Log 1"
 author: Jay
-date: 2021-03-22T08:26:08-05:00
+date: 2021-03-22T13:26:08-05:00
 draft: false
 ---
 
 *The following report details two sessions on 3/14/21 and 3/21/21.*
 
-An indescribable partnership: David Adams, a disgruntled worker with debts to pay; and Craig Boone, an ex-Union operative with a haunted conscience. Together they struck out D15 Gateway, a station in the Long Rim on the edge of the infamous Scyllan Gap. Crushed by their bills and their pasts, they turned to bounty hunting to stay alive. Their latest gig was a deal for none other than the Smith-Shimano corp. A bounty was posted for a fugitive who had stolen key data from a Smith-Shimano station, and Adams and Boone brought them in.
+An indescribable partnership: David Adams, a disgruntled worker with debts to pay; and Craig Boone, an ex-Union operative with a haunted conscience. Together they struck out to D15 Gateway, a station in the Long Rim on the edge of the infamous Scyllan Gap. Crushed by their bills and their pasts, they turned to bounty hunting to stay alive. Their latest gig was a deal for none other than the Smith-Shimano corp. A bounty was posted for a fugitive who had stolen key data from a Smith-Shimano station, and Adams and Boone brought them in.
 
 ![image](https://user-images.githubusercontent.com/8935623/111987778-f93c7480-8b52-11eb-8bb9-84b4f4d81e10.png)
 
