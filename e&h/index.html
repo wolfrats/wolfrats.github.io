@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Seconds Since Happy Got Married</title>
+    <script>
+      const MARRIED_TIME = 1720215399;
+      var timerElement = document.getElementById("timer");
+      function timer() {
+        var time = Math.floor(Date.now() / 1000) - MARRIED_TIME;
+        timerElement.innerText = "" + time;
+      }
+      setInterval(timer, 1000);
+      timer();
+    </script>
+  </head>
+  <body>
+    <div id="timer"></div>
+  </body>
+</html>
