@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://wolfrats.com/posts/</loc>
-    <lastmod>2025-07-01T14:37:08-05:00</lastmod>
+    <loc>https://wolfrats.com/posts/math/</loc>
+    <lastmod>2025-07-08T14:37:08-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wolfrats.com/posts/supermix/</loc>
-    <lastmod>2025-07-01T14:37:08-05:00</lastmod>
+    <loc>https://wolfrats.com/posts/</loc>
+    <lastmod>2025-07-08T14:37:08-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://wolfrats.com/</loc>
+    <lastmod>2025-07-08T14:37:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wolfrats.com/posts/supermix/</loc>
     <lastmod>2025-07-01T14:37:08-05:00</lastmod>
   </url>
   
