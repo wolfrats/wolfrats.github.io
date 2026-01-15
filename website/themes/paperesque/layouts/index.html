@@ -7,8 +7,8 @@
     {{ range (.Paginate $pages 7).Pages }}
       {{ if not ((isset .Params "visible")) }}
         <li>
-          <a href="{{ .url | relURL }}">
-            <span class="post-title">{{ .name }}</span>
+          <a href="{{ .Permalink }}">
+            <span class="post-title">{{ .Title }}</span>
           </a>
         </li>
       {{ end }}
